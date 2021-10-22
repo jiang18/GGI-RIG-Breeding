@@ -1,6 +1,6 @@
 # GGI-RIG-Breeding Workshop
 
-## MPH: Paritioning Heritability into Many Components in Related Individuals
+## MPH: Paritioning Heritability into Many Components
 
 ### Regional Heritability Mapping
 
